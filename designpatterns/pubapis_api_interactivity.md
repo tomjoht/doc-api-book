@@ -1,7 +1,5 @@
 # API Interactivity
 
-## API explorers
-
 A recurring feature in many API doc publishing sites is interactivity. Swagger, readme.io, Apiary, and many other platforms allow you to try out calls and see responses.
 
 For APIs not on these platforms, wiring up an API Explorer is often done by engineers. Since you already have the API wiring to make calls and receive responses, creating an API Explorer is a feasible task for a UI developer.
