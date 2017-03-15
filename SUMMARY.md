@@ -69,7 +69,7 @@
 * [More about YAML](part5-publish-api-docs/pubapis_yaml.md)
 * [RAML](part5-publish-api-docs/pubapis_raml.md)
 * [API Blueprint](part5-publish-api-docs/pubapis_api_blueprint.md)
-* [Static site generators \(Jekyll\)](part5-publish-api-docs/pubapis_static_site_generators.md)
+* [Static site generators (Jekyll)](part5-publish-api-docs/pubapis_static_site_generators.md)
 * [Readme.io](part5-publish-api-docs/pubapis_readmeio.md)
 * [Miredot](part5-publish-api-docs/pubapis_miredot.md)
 * [Custom UX solutions](part5-publish-api-docs/pubapis_custom_ux.md)
@@ -93,10 +93,7 @@
 * [Generate a Javadoc](part7-doc-native-library-apis/nativelibraryapis_create_javadoc.md)
 * [Javadoc tags](part7-doc-native-library-apis/nativelibraryapis_javadoc_tags.md)
 * [Exploring the Javadoc output](part7-doc-native-library-apis/nativelibraryapis_exploring_javadoc_output.md)
-* \[Making edits to Javadoc tags[\(part7-doc-native-library-apis](/nativelibraryapis_editing_javadoc.md)
+* [Making edits to Javadoc tags[(part7-doc-native-library-apis](/nativelibraryapis_editing_javadoc.md)
 * [Doxygen, another document generator](part7-doc-native-library-apis/nativelibraryapis_doxygen.md)
 * [Documenting non-reference API docs](part7-doc-native-library-apis/nativelibraryapis_nonrefdocs.md)
 * [Course summary](part7-doc-native-library-apis/nativelibraryapis_workshop_summary.md)
-
-
-
