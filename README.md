@@ -6,7 +6,7 @@ You'll learn about API documentation in the context of using some simple weather
 
 As you use the API, you'll learn about endpoints, parameters, data types, authentication, cURL, JSON, the command line, Chrome's Developer Console, JavaScript, and other details associated with REST APIs.
 
-<img src="../images_api/restapi_apidoc.png" alt="REST API diagram" />
+<img src="images_api/restapi_apidoc.png" alt="REST API diagram" />
 
 The idea is that rather than learning about these concepts independent of any context, you learn them by immersing yourself in a real scenario while using an API. This makes these tools more meaningful.
 
