@@ -2,11 +2,11 @@
 
 ### Using a REST API as a developer
 
-  * [Overview](part1-use-like-developer/docapis_course_overview.md))
-  * [The momentum with APIs is REST](part1-use-like-developer/docapis_intro_to_rest_api_doc.md))
-  * [The job market for API technical writers](part1-use-like-developer/jobapis_overview.md))
-  * [What is a REST API?](part1-use-like-developer/docapis_what-is-a-rest-api.md))
-  * [How much code do you need to know to create developer documentation?](part1-use-like-developer/pubapis_learning_to_code.md))
+  * [Overview](part1-use-like-developer/docapis_course_overview.md)
+  * [The momentum with APIs is REST](part1-use-like-developer/docapis_intro_to_rest_api_doc.md)
+  * [The job market for API technical writers](part1-use-like-developer/jobapis_overview.md)
+  * [What is a REST API?](part1-use-like-developer/docapis_what-is-a-rest-api.md)
+  * [How much code do you need to know to create developer documentation?](part1-use-like-developer/pubapis_learning_to_code.md)
 
 ### Using an API like a developer
 
@@ -93,7 +93,7 @@
   * [Generate a Javadoc](part7-doc-native-library-apis/nativelibraryapis_create_javadoc.md)
   * [Javadoc tags](part7-doc-native-library-apis/nativelibraryapis_javadoc_tags.md)
   * [Exploring the Javadoc output](part7-doc-native-library-apis/nativelibraryapis_exploring_javadoc_output.md)
-  * [Making edits to Javadoc tags[(part7-doc-native-library-apis/nativelibraryapis_editing_javadoc.md)
+  * [Making edits to Javadoc tags[(part7-doc-native-library-apis](/nativelibraryapis_editing_javadoc.md)
   * [Doxygen, another document generator](part7-doc-native-library-apis/nativelibraryapis_doxygen.md)
   * [Documenting non-reference API docs](part7-doc-native-library-apis/nativelibraryapis_nonrefdocs.md)
   * [Course summary](part7-doc-native-library-apis/nativelibraryapis_workshop_summary.md)
