@@ -1,5 +1,8 @@
 # Summary
 
+* [Chapter 1](chapter1.md)
+* [Doc API Answers](/docapis_answers.md)
+
 ### Using a REST API as a developer
 
 * [Overview](part1-use-like-developer/docapis_course_overview.md)
