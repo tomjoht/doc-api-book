@@ -1,12 +1,4 @@
----
-title: "Adding an Edit on Github button"
-permalink: /pubapis_api_blueprint/
-course: "Documenting REST APIs"
-type: notes_docapis
-weight: 6.81
-published: false
----
-{% include notes.html %}
+# Adding an Edit on Github button
 
 One common design pattern in API docs is a button or link that says "Edit on Github." This button takes users to the source file on Github, where they can edit the content. I'd seen this button on many API doc sites, so I decided to give it a try with my own docs.
 

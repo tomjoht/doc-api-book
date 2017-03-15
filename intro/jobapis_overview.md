@@ -1,11 +1,4 @@
----
-title: The job market for API technical writers
-course: "Documenting REST APIs"
-permalink: /jobapis_overview/
-weight: 8.1
-type: notes_docapis
----
-{% include notes.html %}
+# The job market for API technical writers
 
 ## Demand is high
 

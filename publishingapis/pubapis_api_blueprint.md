@@ -1,11 +1,5 @@
----
-title: "API Blueprint tutorial"
-permalink: /pubapis_api_blueprint/
-course: "Documenting REST APIs"
-type: notes_docapis
-weight: 5.7
----
-{% include notes.html %}
+# API Blueprint tutorial
+
 ## API Blueprint is another spec
 
 Just as Swagger defines a spec for describing a REST API, API Blueprint is another spec (which you can [read here](https://github.com/apiaryio/api-blueprint/blob/master/API%20Blueprint%20Specification.md)). If you describe your API with this blueprint, then different tools can read and display the information.
@@ -382,7 +376,7 @@ For this tutorial, we'll use a platform called Apiary to read and display the AP
 	            ]
 
    ```
-	
+
 	{{note}} If the code isn't easy to copy and paste, you can <a href="http://idratherbewriting.com/files/publishingapidocs/apiblueprintweatherdata.md">view and download the file here</a>.{{end}}
 
 5. Click **Save and Publish**.

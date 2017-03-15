@@ -1,14 +1,4 @@
----
-title: The momentum with APIs is REST
-permalink: /docapis_intro_to_rest_api_doc/
-categories:
-- api-doc
-keywords:
-course: "Documenting REST APIs"
-weight: 1.1
-type: notes_docapis
----
-{% include notes.html %}
+# The momentum with APIs is REST
 
 ## Course focus is on REST APIs
 The API landscape is diverse. To get a taste of the various types of APIs out there, check out Sarah Maddox's post about [API types](https://ffeathers.wordpress.com/2014/02/16/api-types/).

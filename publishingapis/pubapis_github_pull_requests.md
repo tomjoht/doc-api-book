@@ -1,11 +1,5 @@
----
-title: "Pull request workflows through Github in the browser"
-permalink: /pubapis_github_pull_requests/
-course: "Documenting REST APIs"
-type: notes_docapis
-weight: 5.2
----
-{% include notes.html %}
+# Pull request workflows through Github in the browser
+
 
 ## Managing reviews through Github
 

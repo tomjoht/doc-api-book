@@ -1,11 +1,4 @@
----
-title: "Github wikis"
-permalink: /pubapis_github_wikis/
-course: "Documenting REST APIs"
-type: notes_docapis
-weight: 4.9
----
-{% include notes.html %}
+# Github wikis
 
 ## Github wikis as complementary repositories to code projects
 

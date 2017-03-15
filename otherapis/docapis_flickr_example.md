@@ -1,14 +1,6 @@
----
-title: 'Flickr example: Retrieve a Flickr gallery and display it on a web page'
-permalink: /docapis_flickr_example/
-categories:
-- api-doc
-course: "Documenting REST APIs"
-weight: 4.1
-type: notes_docapis
----
+# Flickr example
 
-{% include notes.html %}
+Retrieve a Flickr gallery and display it on a web page'
 
 ## The challenge
 

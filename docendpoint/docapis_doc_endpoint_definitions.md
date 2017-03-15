@@ -1,14 +1,5 @@
----
-title: Documenting the endpoints and methods
-permalink: /docapis_doc_endpoint_definitions/
-categories:
-- api-doc
-keywords:
-course: "Documenting REST APIs"
-weight: 2.6
-type: notes_docapis
----
-{% include notes.html %}
+# Documenting the endpoints and methods
+
 
 ## Terminology for endpoints varies
 

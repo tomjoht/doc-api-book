@@ -1,12 +1,5 @@
----
-title: Writing the overview section
-permalink: /docapis_doc_overview/
-keywords:
-course: "Documenting REST APIs"
-weight: 3.3
-type: notes_docapis
----
-{% include notes.html %}
+# Writing the overview section
+
 
 ## About the Overview section
 

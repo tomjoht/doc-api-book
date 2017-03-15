@@ -1,14 +1,4 @@
----
-title: Documenting sample requests
-permalink: /docapis_doc_sample_requests/
-categories:
-- api-doc
-keywords:
-course: "Documenting REST APIs"
-weight: 2.8
-type: notes_docapis
----
-{% include notes.html %}
+# Documenting sample requests
 
 ## The sample request clarifies how to use the endpoint
 

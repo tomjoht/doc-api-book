@@ -1,14 +1,4 @@
----
-title: Documenting response and error codes
-permalink: /docapis_doc_response_codes/
-categories:
-- api-doc
-keywords:
-course: "Documenting REST APIs"
-weight: 3.6
-type: notes_docapis
----
-{% include notes.html %}
+# Documenting response and error codes
 
 ## Response codes let you know the status of the request
 

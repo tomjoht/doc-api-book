@@ -1,10 +1,4 @@
----
-title: "Tool decisions"
-permalink: /pubapis_tooldecisions/
-course: "Documenting REST APIs"
-type: notes_docapis
-weight: 4.8
----
+# Tool decisions
 
 ## Writers tools or developers tools
 

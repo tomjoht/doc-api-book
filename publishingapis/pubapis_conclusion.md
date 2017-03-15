@@ -1,16 +1,10 @@
----
-title: "Conclusion"
-permalink: /pubapis_conclusion/
-course: "Documenting REST APIs"
-type: notes_docapis
-weight: 8.2
----
+# Conclusion
 
 ## Congrats, you finished
 
-Congratulations, you finished the Publishing API Docs course. By now, you should have a solid understanding of the variety and possibilities for publishing API documentation. 
+Congratulations, you finished the Publishing API Docs course. By now, you should have a solid understanding of the variety and possibilities for publishing API documentation.
 
-At this point, think about your requirements, your audience, and try to pick the right tools for your situation. 
+At this point, think about your requirements, your audience, and try to pick the right tools for your situation.
 
 ## Questions to consider
 Here are a few questions to consider:

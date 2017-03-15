@@ -1,14 +1,4 @@
----
-title: Putting it all together
-permalink: /docapis_finished_doc_result/
-categories:
-- api-doc
-keywords:
-course: "Documenting REST APIs"
-weight: 3.1
-type: notes_docapis
----
-{% include notes.html %}
+# Putting it all together
 
 ## Full working example
 In this example, let's pull together the various parts you've worked on to showcase the full example. I chose to format mine in Markdown syntax in a text editor.

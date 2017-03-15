@@ -1,8 +1,7 @@
 # Summary
 
-## REST API overview 
+## REST API overview
 
-* [Overview](intro/docapis_course_overview.md)
 * [The momentum with APIs is REST](intro/docapis_intro_to_rest_api_doc.md)
 * [The job market for API technical writers](intro/jobapis_overview.md)
 * [What is a REST API?](intro/docapis_what-is-a-rest-api.md)

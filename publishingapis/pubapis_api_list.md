@@ -1,10 +1,5 @@
----
-title: List of about 100 APIs
-permalink: /pubapis_apilist/
-type: notes_docapis
-weight: 4.6
----
-{% include notes.html %}
+# List of about 100 APIs
+
 ## A survey of API documentation sites
 
 The following are about 100 openly accessible REST APIs that you can browse as a way to look at patterns and examples. Most of these REST API links are available from [programmableweb.com](http://programmableweb.com). I initially started gathering a list of the APIs in Programmableweb's "Most Popular" category, but then I just started adding links as I ran across interesting APIs.
@@ -114,4 +109,4 @@ Note that Programmableweb only lists web APIs, meaning APIs that you can access 
 ## Look at 5 different APIs
 
 
-Look at about 5 different APIs (choose any of those listed on the page). Look for one thing that the APIs have in common. 
+Look at about 5 different APIs (choose any of those listed on the page). Look for one thing that the APIs have in common.

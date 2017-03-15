@@ -1,14 +1,4 @@
----
-title: Scenario for using a weather API
-permalink: /docapis_scenario_for_using_weather_api/
-categories:
-- api-doc
-keywords:
-course: "Documenting REST APIs"
-weight: 1.3
-type: notes_docapis
----
-{% include notes.html %}
+# Scenario for using a weather API
 
 ## Our course scenario: Weather forecast API
 

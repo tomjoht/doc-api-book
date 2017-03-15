@@ -1,14 +1,4 @@
----
-title: Documenting sample responses
-permalink: /docapis_doc_sample_responses/
-categories:
-- api-doc
-keywords:
-course: "Documenting REST APIs"
-weight: 2.9
-type: notes_docapis
----
-{% include notes.html %}
+# Documenting sample responses
 
 ## Provide a sample response for the endpoint
 

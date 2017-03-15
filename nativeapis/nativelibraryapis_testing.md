@@ -1,10 +1,4 @@
----
-title: "My biggest tip: Test everything"
-course: "Documenting REST APIs"
-permalink: /nativelibraryapis_testing/
-weight: 3.11
-type: notes_docapis
----
+# My biggest tip: Test everything
 
 ## Testing overview
 

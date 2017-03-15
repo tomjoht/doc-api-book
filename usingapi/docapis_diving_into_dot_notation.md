@@ -1,12 +1,4 @@
----
-title: Diving into dot notation
-permalink: /docapis_diving_into_dot_notation/
-keywords:
-course: "Documenting REST APIs"
-weight: 2.3
-type: notes_docapis
----
-{% include notes.html %}
+# Diving into dot notation
 
 ## Use a dot to access the value from a key
 

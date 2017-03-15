@@ -1,14 +1,4 @@
----
-title: Documenting code samples
-permalink: /docapis_doc_code_samples/
-categories:
-- api-doc
-keywords:
-course: "Documenting REST APIs"
-weight: 3.0
-type: notes_docapis
----
-{% include notes.html %}
+# Documenting code samples
 
 ## REST APIs are language agnostic and interoperable
 

@@ -1,14 +1,4 @@
----
-title: Version control systems
-permalink: /pubapis_version_control/
-categories:
-- api-doc
-keywords:
-course: "Documenting REST APIs"
-weight: 5.1
-type: notes_docapis
-summary:
----
+# Version control systems
 
 ## About version control systems
 

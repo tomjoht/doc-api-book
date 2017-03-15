@@ -1,13 +1,5 @@
----
-title: 'How much code do you need to know to create developer documentation?'
-permalink: /pubapis_learning_to_code/
-categories:
-- api-doc
-course: "Documenting REST APIs"
-weight: 8.2
-type: notes_docapis
----
-{% include notes.html %}
+# How much code do you need to know?
+
 
 ## Overview
 

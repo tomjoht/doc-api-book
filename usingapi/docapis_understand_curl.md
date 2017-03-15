@@ -1,14 +1,4 @@
----
-title: Understand cURL more
-permalink: /docapis_understand_curl/
-categories:
-- api-doc
-keywords:
-course: "Documenting REST APIs"
-weight: 1.8
-type: notes_docapis
----
-{% include notes.html %}
+# Understand cURL more
 
 ## cURL is a cross-platform way to show requests and responses
 

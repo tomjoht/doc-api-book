@@ -1,12 +1,4 @@
----
-title: What is a REST API?
-permalink: /docapis_what-is-a-rest-api/
-keywords:
-course: "Documenting REST APIs"
-weight: 1.2
-type: notes_docapis
----
-{% include notes.html %}
+# What is a REST API?
 
 ## An API is an interface between systems
 

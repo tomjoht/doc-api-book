@@ -1,13 +1,7 @@
----
-title: 'EventBrite example: Get Event information and display it on a page'
-permalink: /docapis_eventbrite_example/
-type: notes_docapis
-course: "Documenting REST APIs"
-weight: 4.0
-keywords: Eventbrite API example, REST APIs
----
+# EventBrite example
 
-{% include notes.html %}
+Get Event information and display it on a page
+
 ## The challenge
 
 Use the EventBrite API to get the event title and description of [this event](https://www.eventbrite.com/myevent?eid=17920884849).

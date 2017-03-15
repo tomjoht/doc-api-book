@@ -1,14 +1,5 @@
----
-title: Access and print a specific JSON value
-permalink: /docapis_access_json_values/
-categories:
-- api-doc
-keywords:
-course: "Documenting REST APIs"
-weight: 2.2
-type: notes_docapis
----
-{% include notes.html %}
+# Access and print a specific JSON value
+
 
 ## Accessing JSON values through dot notation
 

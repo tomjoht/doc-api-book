@@ -1,12 +1,5 @@
----
-title: Create a Javadoc
-permalink: /nativelibraryapis_create_javadoc/
-course: "Documenting REST APIs"
-weight: 7.3
-type: notes_docapis
----
+# Create a Javadoc
 
-{% include notes.html %}
 ## Javadoc overview
 Javadoc is the standard output for Java APIs, and it's really easy to build a Javadoc. The Javadoc is generated through something called a "doclet." Different doclets can parse the Java annotations in different ways and produce different outputs. But by and large, almost every Java documentation uses Javadoc. It's standard and familiar to Java developers.
 

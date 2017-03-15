@@ -1,12 +1,5 @@
----
-title: Documenting authentication and authorization
-permalink: /docapis_more_about_authorization/
-keywords:
-course: "Documenting REST APIs"
-weight: 3.5
-type: notes_docapis
----
-{% include notes.html %}
+# Documenting authentication and authorization
+
 
 ## Authentication and authorization overview
 

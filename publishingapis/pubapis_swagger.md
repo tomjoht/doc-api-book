@@ -1,13 +1,4 @@
----
-title: "Swagger tutorial"
-permalink: /pubapis_swagger/
-course: "Documenting REST APIs"
-type: notes_docapis
-weight: 5.41
----
-{% include notes.html %}
-
-{{site.data.alerts.note}} For a more general overview, see <a href="/pubapis_swagger_intro/">Implementing Swagger with your API docs</a>. {{site.data.alerts.end}}
+# Swagger tutorial
 
 ## About Swagger
 
@@ -135,7 +126,7 @@ To create a Swagger spec file:
     swagger: "2.0"
     info:
      version: "1.0.0"
-     title: "Weather API"
+     # Weather API"
      description: "A sample API that uses a Mashape weather API as an example to demonstrate features in the swagger-2.0 specification"
      termsOfService: "http://helloreverb.com/terms/"
      contact:

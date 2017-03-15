@@ -1,13 +1,6 @@
----
-title: 'Klout example: Retrieve Klout influencers and influencees'
-permalink: /docapis_klout_example/
-categories:
-- api-doc
-course: "Documenting REST APIs"
-weight: 4.2
-type: notes_docapis
----
-{% include notes.html %}
+# Klout example
+
+Retrieve Klout influencers and influencees
 
 ## The challenge
 

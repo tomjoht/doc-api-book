@@ -1,14 +1,4 @@
----
-title: Documenting resource descriptions
-permalink: /docapis_resource_descriptions/
-categories:
-- api-doc
-keywords:
-course: "Documenting REST APIs"
-weight: 2.5
-type: notes_docapis
----
-{% include notes.html %}
+# Documenting resource descriptions
 
 ## The terminology to describe a "resource" varies
 
@@ -111,7 +101,7 @@ But my point is that there is no standard practice here. The terminology varies,
 
 ## When describing the resource, start with a verb
 
-Regardless of the terms you use, the description is usually brief, from 1-3 sentences, and often expressed as a fragment in the active tense. 
+Regardless of the terms you use, the description is usually brief, from 1-3 sentences, and often expressed as a fragment in the active tense.
 
 Review the <a href="/docapis_new_endpoint_to_doc">surf report wiki page</a> containing the information about the endpoint, and try to describe the endpoint in the length of one or two tweets (140 characters).
 

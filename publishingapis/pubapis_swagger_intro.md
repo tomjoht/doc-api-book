@@ -1,13 +1,5 @@
----
-title: Implementing Swagger (OpenAPI specification) with your REST API documentation
-permalink: /pubapis_swagger_intro/
-categories:
-- api-doc
-keywords:
-course: "Documenting REST APIs"
-weight: 5.4
-type: notes_docapis
----
+# Implementing Swagger (OpenAPI specification) with your REST API documentation
+
 {% include notes.html %}
 
 I recently gave a presentation that covers the same concepts in this article. See the following: {% if site.target == "pdf" %}https://www.youtube.com/watch?v=wC5hxY0RItQ{% endif %}
