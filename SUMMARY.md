@@ -10,28 +10,28 @@
 
 ## Using an API like a developer
 
-* [Scenario for using a weather API](usingapidocapis_scenario_for_using_weather_api.md)
-* [Getting authorization keys](usingapidocapis_get_auth_keys.md)
-* [Submit calls through Postman](usingapidocapis_postman.md)
-* [Installing cURL](usingapidocapis_install_curl.md)
-* [Making a cURL call](usingapidocapis_make_curl_call.md)
-* [Understand cURL more](usingapidocapis_understand_curl.md)
-* [Using methods with cURL](usingapidocapis_curl_with_petstore.md)
-* [Analyze the JSON response](usingapidocapis_analyze_json.md)
-* [Log JSON to the console](usingapidocapis_json_console.md)
-* [Access and print a specific JSON value](usingapidocapis_access_json_values.md)
-* [Diving into dot notation](usingapidocapis_diving_into_dot_notation.md)
+* [Scenario for using a weather API](usingapi/docapis_scenario_for_using_weather_api.md)
+* [Getting authorization keys](usingapi/docapis_get_auth_keys.md)
+* [Submit calls through Postman](usingapi/docapis_postman.md)
+* [Installing cURL](usingapi/docapis_install_curl.md)
+* [Making a cURL call](usingapi/docapis_make_curl_call.md)
+* [Understand cURL more](usingapi/docapis_understand_curl.md)
+* [Using methods with cURL](usingapi/docapis_curl_with_petstore.md)
+* [Analyze the JSON response](usingapi/docapis_analyze_json.md)
+* [Log JSON to the console](usingapi/docapis_json_console.md)
+* [Access and print a specific JSON value](usingapi/docapis_access_json_values.md)
+* [Diving into dot notation](usingapi/docapis_diving_into_dot_notation.md)
 
 ## Documenting a new API endpoint
 
-* [New API endpoint to document](docendpointdocapis_new_endpoint_to_doc.md)
-* [Documenting resource descriptions](docendpointdocapis_resource_descriptions.md)
-* [Documenting endpoint definitions and methods](docendpointdocapis_doc_endpoint_definitions.md)
-* [Documenting parameters](docendpointdocapis_doc_parameters.md)
-* [Documenting sample requests](docendpointdocapis_doc_sample_requests.md)
-* [Documenting sample responses](docendpointdocapis_doc_sample_responses.md)
-* [Documenting code samples](docendpointdocapis_doc_code_samples.md)    
-* [Putting it all together](docendpointdocapis_finished_doc_result.md)
+* [New API endpoint to document](docendpoint/docapis_new_endpoint_to_doc.md)
+* [Documenting resource descriptions](docendpoint/docapis_resource_descriptions.md)
+* [Documenting endpoint definitions and methods](docendpoint/docapis_doc_endpoint_definitions.md)
+* [Documenting parameters](docendpoint/docapis_doc_parameters.md)
+* [Documenting sample requests](docendpoint/docapis_doc_sample_requests.md)
+* [Documenting sample responses](docendpoint/docapis_doc_sample_responses.md)
+* [Documenting code samples](docendpoint/docapis_doc_code_samples.md)    
+* [Putting it all together](docendpoint/docapis_finished_doc_result.md)
 * [My biggest tip: Test everything](/nativelibraryapis_testing.md)
 
 ## Documenting non-reference sections
