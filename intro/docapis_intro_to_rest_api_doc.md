@@ -1,6 +1,5 @@
 # The momentum with APIs is REST
 
-## Course focus is on REST APIs
 The API landscape is diverse. To get a taste of the various types of APIs out there, check out Sarah Maddox's post about [API types](https://ffeathers.wordpress.com/2014/02/16/api-types/).
 
 <a href="https://ffeathers.wordpress.com/2014/02/16/api-types/"><img src="../images_api/apitypes.png" alt="API Types" /></a>
