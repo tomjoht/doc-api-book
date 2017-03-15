@@ -1,5 +1,5 @@
 ---
-title: The market for REST API documentation
+title: The momentum with APIs is REST
 permalink: /docapis_intro_to_rest_api_doc/
 categories:
 - api-doc
