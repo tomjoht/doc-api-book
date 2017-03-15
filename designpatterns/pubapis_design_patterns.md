@@ -1,7 +1,5 @@
 # Design patterns
 
-## What are design patterns
-
 Design patterns are common themes in the way something is designed. In looking over the many API doc sites, I tried to find some common design patterns in the way the content was published. I already mentioned the division between guides, tutorials, and reference documentation. Here I want to explore more design-specific elements in API doc sites.
 
 <a href="https://flic.kr/p/ssQqiL"><img src="../images_api/patterns.png" alt="Earth patterns, Venefice. Flickr" /></a>
