@@ -1,6 +1,5 @@
 # Challenging factors
 
-## Requirements that may cause problems
 A lot of the solutions we've looked at tend to break down when you start applying more difficult requirements in your tech comm scenario. If you have to deal with some of these challenges, you may have to resort to more traditional tech comm tooling.
 
 * Translation
