@@ -3,13 +3,13 @@
 * [Chapter 1](chapter1.md)
 * [Doc API Answers](/docapis_answers.md)
 
-### Using a REST API as a developer
+### REST API overview
 
-* [Overview](part1-use-like-developer/docapis_course_overview.md)
-* [The momentum with APIs is REST](part1-use-like-developer/docapis_intro_to_rest_api_doc.md)
-* [The job market for API technical writers](part1-use-like-developer/jobapis_overview.md)
-* [What is a REST API?](part1-use-like-developer/docapis_what-is-a-rest-api.md)
-* [How much code do you need to know to create developer documentation?](part1-use-like-developer/pubapis_learning_to_code.md)
+* [Overview](part1/docapis_course_overview.md)
+* [The momentum with APIs is REST](part1/docapis_intro_to_rest_api_doc.md)
+* [The job market for API technical writers](part1/jobapis_overview.md)
+* [What is a REST API?](part1/docapis_what-is-a-rest-api.md)
+* [How much code do you need to know to create developer documentation?](part1/pubapis_learning_to_code.md)
 
 ### Using an API like a developer
 
