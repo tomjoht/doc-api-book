@@ -1,4 +1,4 @@
-# Summary
+# Summary 
 
 ## REST API overview
 
@@ -68,7 +68,7 @@
 * [More about YAML](publishingapis/pubapis_yaml.md)
 * [RAML](publishingapis/pubapis_raml.md)
 * [API Blueprint](publishingapis/pubapis_api_blueprint.md)
-* [Static site generators (Jekyll)](publishingapis/pubapis_static_site_generators.md)
+* [Static site generators \(Jekyll\)](publishingapis/pubapis_static_site_generators.md)
 * [Readme.io](publishingapis/pubapis_readmeio.md)
 * [Miredot](publishingapis/pubapis_miredot.md)
 * [Custom UX solutions](publishingapis/pubapis_custom_ux.md)
@@ -92,7 +92,10 @@
 * [Generate a Javadoc](nativeapis/nativelibraryapis_create_javadoc.md)
 * [Javadoc tags](nativeapis/nativelibraryapis_javadoc_tags.md)
 * [Exploring the Javadoc output](nativeapis/nativelibraryapis_exploring_javadoc_output.md)
-* [Making edits to Javadoc tags[(nativeapis](/nativelibraryapis_editing_javadoc.md)
+* \[Making edits to Javadoc tags[\(nativeapis](/nativelibraryapis_editing_javadoc.md)
 * [Doxygen, another document generator](nativeapis/nativelibraryapis_doxygen.md)
 * [Documenting non-reference API docs](nativeapis/nativelibraryapis_nonrefdocs.md)
 * [Course summary](nativeapis/nativelibraryapis_workshop_summary.md)
+
+
+
