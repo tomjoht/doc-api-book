@@ -1,5 +1,5 @@
 
-<img src="images_api/restapi_apidoc.png" alt="REST API diagram" />
+<img src="../images_api/restapi_apidoc.png" alt="REST API diagram" />
 
 ## Documenting REST APIs course
 
