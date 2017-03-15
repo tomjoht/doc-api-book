@@ -1,6 +1,6 @@
 # Summary
 
-## REST API overview
+## REST API overview 
 
 * [Overview](intro/docapis_course_overview.md)
 * [The momentum with APIs is REST](intro/docapis_intro_to_rest_api_doc.md)
