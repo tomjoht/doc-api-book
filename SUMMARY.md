@@ -1,11 +1,11 @@
-# Summary 
+# Summary
 
 ## REST API overview
 
 * [The momentum with APIs is REST](intro/docapis_intro_to_rest_api_doc.md)
 * [The job market for API technical writers](intro/jobapis_overview.md)
 * [What is a REST API?](intro/docapis_what-is-a-rest-api.md)
-* [How much code do you need to know to create developer documentation?](intro/pubapis_learning_to_code.md) 
+* [How much code do you need to know to create developer documentation?](intro/pubapis_learning_to_code.md)
 
 ## Using an API like a developer
 
@@ -92,10 +92,7 @@
 * [Generate a Javadoc](nativeapis/nativelibraryapis_create_javadoc.md)
 * [Javadoc tags](nativeapis/nativelibraryapis_javadoc_tags.md)
 * [Exploring the Javadoc output](nativeapis/nativelibraryapis_exploring_javadoc_output.md)
-* \[Making edits to Javadoc tags[\(nativeapis](/nativelibraryapis_editing_javadoc.md)
+* [Making edits to Javadoc tags](/nativelibraryapis_editing_javadoc.md)
 * [Doxygen, another document generator](nativeapis/nativelibraryapis_doxygen.md)
 * [Documenting non-reference API docs](nativeapis/nativelibraryapis_nonrefdocs.md)
 * [Course summary](nativeapis/nativelibraryapis_workshop_summary.md)
-
-
-
