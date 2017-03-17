@@ -46,11 +46,11 @@ James Neiman and [Andrew Davis](http://www.synergistech.com/) recently gave a pr
 
 {% if site.target == "pdf" %}See https://www.youtube.com/watch?v=wC5hxY0RItQ for the video. Watch the video around the 23 minute mark. {% endif %}
 
-{% unless site.target == "pdf" %}
+{% if site.target != "pdf" %}
 Watch this excerpt at around the 23 minute mark:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lmNHBg20ql0?start=22m33s&end=24m17s" frameborder="0" allowfullscreen></iframe>
-{% endunless %}
+{% endif %}
 
 Clearly, Neiman argues for a higher level of coding proficiency than Wood or Rhea. The level of coding knowledge required no doubt depends on the position, environment, and expectations. If you're in a situation where the code is over your head, developers may send you chunks of code to add to the documentation.
 
