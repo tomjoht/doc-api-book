@@ -1,7 +1,7 @@
 # More about Markdown
 
 
-{% include notes.html %}
+<!--- include "notes.html" --->
 
 ## Markdown overview
 

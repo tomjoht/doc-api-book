@@ -301,7 +301,7 @@ By integrating Swagger into the code, you allow developers to easily write docum
 
 For other tools and libraries, see [Swagger services and tools](http://swagger.io/open-source-integrations/).
 
-{% comment %} If you want to automatically set the API key, remove the security definition from the swagger.yaml file and put this before the closing script tag in the index file.
+<!--- If you want to automatically set the API key, remove the security definition from the swagger.yaml file and put this before the closing script tag in the index file.
 
         function addApiKeyAuthorization(){
          var key = encodeURIComponent($('#input_apiKey')[0].value);
@@ -310,5 +310,4 @@ For other tools and libraries, see [Swagger services and tools](http://swagger.i
              swaggerUi.api.clientAuthorizations.add("key", new SwaggerClient.ApiKeyAuthorization("X-Mashape-Key", "EF3g83pKnzmshgoksF83V6JB6QyTp1cGrrdjsnczTkkYgYrp8p", "header"));
              log("added key " + key);
          }
-
-{% endcomment %}
+--->

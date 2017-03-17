@@ -4,7 +4,7 @@ permalink: /docapis_answers/
 course: "Documenting REST APIs"
 type: notes_docapis
 ---
-{% include notes.html %}
+<!--- include "notes.html" --->
 
 This page provides answers to some of the exercises during the course.
 

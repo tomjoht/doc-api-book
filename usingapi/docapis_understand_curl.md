@@ -157,7 +157,7 @@ Fill in the blanks to see how much you remember:
 * `-X POST` means...
 * `-d` means...
 
-{% unless site.target == "pdf" %}See the <a href="/docapis_answers#curlParameters">cURL parameters</a> on the answer page to check your responses.{% endunless %}
+{% if site.target != "pdf" %}See the <a href="/docapis_answers#curlParameters">cURL parameters</a> on the answer page to check your responses.{% endif %}
 
 {% if site.target == "pdf" %}See the <a href="#curlParameters">cURL parameters</a> on the answer page to check your responses.{% endif %}
 

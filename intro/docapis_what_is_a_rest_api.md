@@ -102,9 +102,9 @@ The terminology of "URIs" and "GET requests" and "message responses" transported
 
 If you open a browser and go to http://idratherbewriting.com, you're really using HTTP protocol (`http://`) to submit a GET request to the resource available on a web server. The response from the server sends the content at this resource back to you using HTTP. Your browser is just a client that makes the message response look pretty.
 
-{% unless site.target == "pdf" %}
+{% if site.target != "pdf" %}
 <img src="../images_api/restapi_www.svg" alt="Web as REST API" />
-{% endunless %}
+{% endif %}
 
 {% if site.target == "pdf" %}
 <img src="../images_api/restapi_www.png" alt="Web as REST API" />

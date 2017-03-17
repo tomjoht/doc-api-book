@@ -24,11 +24,11 @@ Engineers can either read the documentation directly in the Markdown source, or 
 
 If you plan to have developers write, definitely check out Riona Macnamara's Write the Docs 2015 presentation: [Documentation, Disrupted: How two technical writers changed Google engineering culture](http://en.wikipedia.org/wiki/Continental_drift
 ).
-{% unless site.target == "pdf" %}
+{% if site.target != "pdf" %}
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/EnB8GtPuauw" frameborder="0" allowfullscreen></iframe>
 
-{% endunless %}
+{% endif %}
 
 ## Pros of having developers write
 

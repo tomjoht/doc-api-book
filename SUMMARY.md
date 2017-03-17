@@ -60,7 +60,7 @@
 * [Tool decisions](publishingapis/pubapis_tooldecisions.md)
 * [Github wikis](publishingapis/pubapis_github_wikis.md)
 * [More about Markdown](publishingapis/pubapis_markdown.md)
-* [Using a version control system](publishingapis/pubapis_version_control.md)
+* [Using a version control system](publishingapis/pubapis_version_control_systems.md)
 * [Pull request workflows through Github in browser](publishingapis/pubapis_github_pull_requests.md)
 * [REST API specification formats](publishingapis/pubapis_rest_specification_formats.md)
 * [Implementing Swagger with your API docs](publishingapis/pubapis_swagger_intro.md)

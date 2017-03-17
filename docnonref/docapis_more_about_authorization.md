@@ -84,9 +84,9 @@ If the string matches the signature in the request header, it accepts the reques
 
 Here's a diagram depicting this workflow:
 
-{% unless site.target == "pdf" %}
+{% if site.target != "pdf" %}
 <img src="../images_api/restapi_hmac.svg" alt="HMAC workflow" />
-{% endunless %}
+{% endif %}
 
 {% if site.target == "pdf" %}
 <img src="../images_api/restapi_hmac.png" alt="HMAC workflow" />
@@ -112,9 +112,9 @@ In contrast, three-legged OAuth is used when you need to protect sensitive data.
 
 Here's the basic workflow of OAuth 2.0:
 
-{% unless site.target == "pdf" %}
+{% if site.target != "pdf" %}
 <img src="../images_api/restapi_oauth.svg" alt="OAuth workflow" />
-{% endunless %}
+{% endif %}
 
 {% if site.target == "pdf" %}
 <img src="../images_api/restapi_oauth.png" alt="OAuth workflow" />

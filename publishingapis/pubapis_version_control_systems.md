@@ -171,7 +171,7 @@ Your options are the following:
 * Run `git pull` to merge the other branch into yours, thereby resolving the conflict.
 
 
-{% comment %}
+<!---
 why use a graphical editor?
 why use sourcetree
 which revision control to learn?
@@ -222,5 +222,4 @@ working copy
 
 when to commit?
 
-checkout -- you revert to a previous commit and then you want to check that commit out
-{% endcomment %}
+checkout -- you revert to a previous commit and then you want to check that commit out --->

@@ -1,12 +1,12 @@
 # Implementing Swagger (OpenAPI specification) with your REST API documentation
 
-{% include notes.html %}
+<!--- include "notes.html" --->
 
 I recently gave a presentation that covers the same concepts in this article. See the following: {% if site.target == "pdf" %}https://www.youtube.com/watch?v=wC5hxY0RItQ{% endif %}
 
-{% unless site.target == "pdf" %}
+{% if site.target != "pdf" %}
 <iframe width="640" height="360" src="https://www.youtube.com/embed/wC5hxY0RItQ" frameborder="0" allowfullscreen></iframe>
-{% endunless %}
+{% endif %}
 
 ## Introduction
 

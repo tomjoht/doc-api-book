@@ -3,12 +3,12 @@ title: Next phase of course
 permalink: /docapis_completion/
 categories:
 - api-doc
-keywords: 
+keywords:
 course: "Documenting REST APIs"
 weight: 4.4
 type: notes_docapis
 ---
-{% include notes.html %}
+<!--- include "notes.html" --->
 
 ## You finished!
 
@@ -38,7 +38,7 @@ Although the technology landscape is broad, and there are many different technol
 
 ## The next part of the course
 
-Now that you've got the content down, the next step is to focus on publishing strategies for API documentation. This is the focus of the next part of the course. 
+Now that you've got the content down, the next step is to focus on publishing strategies for API documentation. This is the focus of the next part of the course.
 
 
 
