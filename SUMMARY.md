@@ -4,7 +4,7 @@
 
 * [The momentum with APIs is REST](intro/docapis_intro_to_rest_api_doc.md)
 * [The job market for API technical writers](intro/jobapis_overview.md)
-* [What is a REST API?](intro/docapis_what-is-a-rest-api.md)
+* [What is a REST API?](intro/docapis_what_is_a_rest_api.md)
 * [How much code do you need to know to create developer documentation?](intro/pubapis_learning_to_code.md)
 
 ## Using an API like a developer
@@ -31,7 +31,7 @@
 * [Documenting sample responses](docendpoint/docapis_doc_sample_responses.md)
 * [Documenting code samples](docendpoint/docapis_doc_code_samples.md)    
 * [Putting it all together](docendpoint/docapis_finished_doc_result.md)
-* [My biggest tip: Test everything](/nativelibraryapis_testing.md)
+* [My biggest tip: Test everything](docendpoint/nativelibraryapis_testing.md)
 
 ## Documenting non-reference sections
 
@@ -50,16 +50,15 @@
 * [Flickr example](otherapis/docapis_flickr_example.md)
 * [Klout example](otherapis/docapis_klout_example.md)
 * [Aeris Weather example](otherapis/docapis_aerisweather_example.md)
-* [Course completion](otherapis/docapis_completion.md)
 
 ## Publishing API docs
 
 * [Overview](publishingapis/pubapis_overview.md)
-* [List of about 100 APIs](publishingapis/pubapis_apilist.md)
+* [List of about 100 APIs](publishingapis/pubapis_api_list.md)
 * [Breaking down API doc](publishingapis/pubapis_api_doc_types.md)
 * [Tool decisions](publishingapis/pubapis_tooldecisions.md)
 * [Github wikis](publishingapis/pubapis_github_wikis.md)
-* [More about Markdown](publishingapis/pubapis_markdown.md)
+* [More about Markdown](publishingapis/pubapis_all_about_markdown.md)
 * [Using a version control system](publishingapis/pubapis_version_control_systems.md)
 * [Pull request workflows through Github in browser](publishingapis/pubapis_github_pull_requests.md)
 * [REST API specification formats](publishingapis/pubapis_rest_specification_formats.md)
@@ -96,3 +95,4 @@
 * [Doxygen, another document generator](nativeapis/nativelibraryapis_doxygen.md)
 * [Documenting non-reference API docs](nativeapis/nativelibraryapis_nonrefdocs.md)
 * [Course summary](nativeapis/nativelibraryapis_workshop_summary.md)
+* [Course completion](nativeapis/docapis_completion.md)
